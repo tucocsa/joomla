@@ -1,0 +1,11 @@
+#
+#<?php die("Forbidden."); ?>
+
+2017-09-22 12:16:47 ERROR vmError: Warning, the Безопасный путь is not configured yet. Use this link to the &lt;a href='http://localhost:5551/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2017-09-22 12:31:23 ERROR vmError: Warning, the Безопасный путь is not configured yet. Use this link to the &lt;a href='http://localhost:5551/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2017-09-22 12:42:21 ERROR vmError: Warning, the Безопасный путь is not configured yet. Use this link to the &lt;a href='http://localhost:5551/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2017-09-22 12:48:03 ERROR vmError: Warning, the Безопасный путь is not configured yet. Use this link to the &lt;a href='http://localhost:5551/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2017-09-22 13:01:13 ERROR vmError: Warning, the Безопасный путь is not configured yet. Use this link to the &lt;a href='http://localhost:5551/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2017-09-22 13:06:41 ERROR vmError: Warning, the Безопасный путь is not configured yet. Use this link to the &lt;a href='http://localhost:5551/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2017-09-22 13:07:43 ERROR vmError: Warning, the Безопасный путь is not configured yet. Use this link to the &lt;a href='http://localhost:5551/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2017-09-22 13:08:02 ERROR vmError: Warning, the Безопасный путь is not configured yet. Use this link to the &lt;a href='http://localhost:5551/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
